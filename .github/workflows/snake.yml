@@ -3,18 +3,18 @@ name: Generate Snake Contribution Grid
 on:
   schedule:
     - cron: "0 0 * * *"  # 매일 자정 자동 실행
-  workflow_dispatch:     # 수동 실행도 가능
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake
+      - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: WI-GEON
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
