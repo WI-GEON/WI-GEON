@@ -50,12 +50,6 @@
 
 ---
 
-## 🐍 Snake Animation
-
-![snake gif](https://github.com/WI-GEON/WI-GEON/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💬 Contact
 
 <p>
