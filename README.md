@@ -1,9 +1,9 @@
 <br>
 
-<h1 align="center">🐧 WI-GEON | Unity 기반 2D 게임 개발자</h1>
+<h1 align="center">🐧 WI-GEON | Unity 게임 프로그래머</h1>
 
 <p align="center">
-  메트로배니아 팬게임 개발 중 🎮<br>
+  현재는 메트로배니아 or 로그라이크 기반 팬게임 개발 중 🎮<br>
   기술과 감성을 모두 담은 액션 게임을 꿈꿉니다.
 </p>
 
