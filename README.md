@@ -1,6 +1,8 @@
 <br>
 
-<h1 align="center">🐧 WI-GEON | Unity 게임 프로그래머</h1>
+<h1 align="center">🐧 WI-GEON | 게임 개발자br>
+
+<h1 align="center">🐧 WI-GEON | 게임 개발자</h1>
 
 <p align="center">
   현재는 메트로배니아 or 로그라이크 기반 팬게임 개발 중 🎮<br>
@@ -19,7 +21,7 @@
 - 💡 **주력**: Unity 2D, C#, FSM, DOTween, 연출/컨트롤 설계
 - 🧠 **특화 경험**: 커스텀 입력 시스템, ScriptableObject 기반 구조화
 - 🛠️ **현재 진행 중**: [Stella Project 팬게임](https://github.com/WI-GEON/FanGame_StellaProject)
-- 📝 **기록 블로그**: [Velog @WI-GEON](https://velog.io/@WI-GEON)
+- 📝 **기록 블로그**: [Velog @WI-GEON]([https://velog.io/@WI-GEO](https://velog.io/@w_wgeon/posts)N)
 
 <br>
 
