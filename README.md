@@ -1,7 +1,4 @@
 <br>
-
-<h1 align="center">🐧 WI-GEON | 게임 개발자br>
-
 <h1 align="center">🐧 WI-GEON | 게임 개발자</h1>
 
 <p align="center">
@@ -10,8 +7,6 @@
 </p>
 
 <br>
-
----
 
 <br>
 
