@@ -15,7 +15,7 @@
 - 🎯 **목표**: 넥슨/크래프톤 등 대형 게임사 Unity 클라이언트 개발자
 - 💡 **주력**: Unity 2D, C#, FSM, DOTween, 연출/컨트롤 설계
 - 🧠 **특화 경험**: 커스텀 입력 시스템, ScriptableObject 기반 구조화
-- 🛠️ **현재 진행 중**: [Stella Project 팬게임](https://github.com/WI-GEON/FanGame_StellaProject)
+- 🛠️ **현재 진행 중**: [팬게임](https://github.com/WI-GEON/)
 - 📝 **기록 블로그**: [Velog @WI-GEON]([https://velog.io/@WI-GEO](https://velog.io/@w_wgeon/posts)N)
 
 <br>
