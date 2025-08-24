@@ -64,20 +64,6 @@
 
 <br>
 
-## 🚀 대표 프로젝트
-
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| 🌌 **Stella Project (FanGame)** | 메트로배니아 + 사이버펑크 감성의 팬게임 | [🔗 GitHub](https://github.com/WI-GEON/FanGame_StellaProject) |
-| 🎮 **MiniGame #1** | 짧은 플랫포머 미니게임, 점프 타이밍 중점 | [🔗 GitHub](https://github.com/WI-GEON/MiniGame_1) |
-| 🧪 **2D Action TechDemo** | FSM, 대시, 공격, 스킬 등 커스텀 액션 시스템 데모 | [🔗 GitHub](https://github.com/WI-GEON/TechDemo_2DAction) |
-
-<br>
-
----
-
-<br>
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -101,18 +87,6 @@
   <tr>
     <td><strong>📧 이메일</strong></td>
     <td><img src="https://img.shields.io/badge/Gmail-wigeon.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><strong>📝 블로그</strong></td>
-    <td><a href="https://velog.io/@WI-GEON">
-      <img src="https://img.shields.io/badge/Blog-Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-    </a></td>
-  </tr>
-  <tr>
-    <td><strong>📂 포트폴리오</strong></td>
-    <td><a href="https://your-notion-link-here">
-      <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat&logo=notion&logoColor=white"/>
-    </a></td>
   </tr>
 </table>
 
