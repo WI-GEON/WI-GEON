@@ -143,7 +143,7 @@ $ ./whoami --player
 ### CONTACT
 
 <p>
-  <a href="mailto:wigeon.dev@gmail.com"><img src="https://img.shields.io/badge/Email-wigeon.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=70A5FD"></a>
+  <a href="mailto:wegeon.dev@gmail.com"><img src="https://img.shields.io/badge/Email-wegeon.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=70A5FD"></a>
   <a href="https://velog.io/@w_wgeon"><img src="https://img.shields.io/badge/Velog-@w__wgeon-0D1117?style=for-the-badge&logo=velog&logoColor=70A5FD"></a>
 </p>
 
