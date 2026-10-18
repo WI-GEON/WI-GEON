@@ -20,7 +20,7 @@
 | **Pixel Gun Master** | 인턴 · 몬스터 상태 이상 · Perk 25종 | 인턴 종료 후 팀 얼리 액세스 |
 
 회사 · 팀 프로젝트의 원본 코드는 공개할 수 없습니다.
-같은 동작을 다시 작성한 대체 코드와 테스트는 **[unity-portfolio-samples](https://github.com/WI-GEON/unity-portfolio-samples)** 에 있습니다.
+포트폴리오에서 설명한 기능을 독립적으로 다시 구현한 예시 코드와 테스트는 **[unity-portfolio-samples](https://github.com/WI-GEON/unity-portfolio-samples)** 에 있습니다.
 
 ### Code Samples
 
