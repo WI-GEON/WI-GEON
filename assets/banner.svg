@@ -46,17 +46,13 @@
       <text class="mono" font-size="13" letter-spacing="3" fill="#58D6A5">UNITY CLIENT DEVELOPER</text>
       <text y="78" class="sans" font-size="72" font-weight="760" letter-spacing="-2" fill="#F1F5F9">WI-GEON</text>
       <rect y="101" width="420" height="3" rx="1.5" fill="url(#accent)"/>
-      <text y="138" class="sans" font-size="17" fill="#9EADBC">Readable systems. Testable gameplay. Measured performance.</text>
+      <text y="138" class="sans" font-size="17" fill="#9EADBC">Readable systems. Testable gameplay.</text>
       <g transform="translate(0 170)" class="mono" font-size="11" letter-spacing="1.2">
         <rect width="112" height="27" rx="13.5" fill="#111C25" stroke="#2B3C49"/>
         <circle cx="17" cy="13.5" r="3" fill="#58D6A5"/><text x="29" y="17" fill="#B9C6D2">ARCHITECTURE</text>
         <g transform="translate(124)">
           <rect width="104" height="27" rx="13.5" fill="#111C25" stroke="#2B3C49"/>
           <circle cx="17" cy="13.5" r="3" fill="#6FA6FF"/><text x="29" y="17" fill="#B9C6D2">TESTABILITY</text>
-        </g>
-        <g transform="translate(240)">
-          <rect width="112" height="27" rx="13.5" fill="#111C25" stroke="#2B3C49"/>
-          <circle cx="17" cy="13.5" r="3" fill="#C493FF"/><text x="29" y="17" fill="#B9C6D2">PERFORMANCE</text>
         </g>
       </g>
     </g>

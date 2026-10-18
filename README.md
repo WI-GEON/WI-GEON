@@ -7,7 +7,7 @@
   <a href="https://github.com/WI-GEON/unity-portfolio-samples"><img src="https://img.shields.io/badge/CODE_SAMPLES-unity--portfolio--samples-2F5BD8?style=flat-square&logo=unity&logoColor=white" alt="Code Samples"></a>
 </p>
 
-**Readable systems. Testable gameplay.**
+**Readable systems. Testable gameplay.**<br>
 모바일 게임을 혼자 출시해 본 경험 위에, 팀 프로젝트의 UI · 몬스터 · 전투 시스템을 끝까지 만들어 온 Unity 클라이언트 개발자입니다.
 
 ### Projects
