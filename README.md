@@ -5,17 +5,18 @@
 <p align="center">
   <a href="mailto:wegeon.dev@gmail.com"><img src="https://img.shields.io/badge/CONTACT-wegeon.dev%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/WI-GEON/unity-portfolio-samples"><img src="https://img.shields.io/badge/CODE_SAMPLES-unity--portfolio--samples-2F5BD8?style=flat-square&logo=unity&logoColor=white" alt="Code Samples"></a>
+  <a href="https://velog.io/@w_wgeon"><img src="https://img.shields.io/badge/BLOG-velog.io%2F%40w__wgeon-20C997?style=flat-square&logo=velog&logoColor=white" alt="Blog"></a>
 </p>
 
 **Readable systems. Testable gameplay.**<br>
-모바일 게임을 혼자 출시해 본 경험 위에, 팀 프로젝트의 UI · 몬스터 · 전투 시스템을 끝까지 만들어 온 Unity 클라이언트 개발자입니다.
+3인 팀에서 프로그래밍을 1인 전담해 모바일 게임을 출시한 경험 위에, 팀 프로젝트의 UI · 몬스터 · 전투 시스템을 끝까지 만들어 온 Unity 클라이언트 개발자입니다.
 
 ### Projects
 
 | 프로젝트 | 맡은 일 | 상태 |
 |---|---|---|
 | **In to the Stella** | 6인 팀 · UI 7종 · 몬스터 공통 기반 · 전투 진행 | - |
-| **케이팝 천지인** | 1인 프로그래머 · 한글 조합 퍼즐 · 결제 · 광고 연동 | Android / iOS 출시 |
+| **케이팝 천지인** | 3인 팀 · 프로그래밍 1인 전담 · 한글 조합 퍼즐 · 결제 · 광고 연동 | Android / iOS 출시 |
 | **숫자전쟁** | 7인 팀 · 게임플레이 · Computer Mode · 방 상태 연동 디버깅 | 퇴사 후 팀 출시 |
 | **Pixel Gun Master** | 인턴 · 몬스터 상태 이상 · Perk 25종 | 인턴 종료 후 팀 얼리 액세스 |
 
